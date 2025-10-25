@@ -1,4 +1,5 @@
-<h1 align="center">🖼️ Edge Detection Visualizer</h1> <p align="center"> <b>An interactive web app built with Streamlit, OpenCV, and Python</b><br> Upload an image, choose an algorithm, and visualize edge detection in real-time. </p>
+🖼️ Edge Detection Visualizer
+<p align="center"> <b>An interactive web app built with Streamlit, OpenCV, and Python</b><br> Upload an image, choose an algorithm, and visualize edge detection in real-time. </p>
 📖 Overview
 
 The Edge Detection Visualizer is an educational and experimental web application designed to help users explore classical computer vision edge detection techniques — Canny, Sobel, and Laplacian.
@@ -26,10 +27,11 @@ cd edge-detector
 
 2️⃣ (Optional) Create a Virtual Environment
 python -m venv venv
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
+
+
+On Windows: venv\Scripts\activate
+
+On macOS/Linux: source venv/bin/activate
 
 3️⃣ Install Dependencies
 
