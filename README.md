@@ -54,18 +54,18 @@ Then open the link shown in the terminal (usually http://localhost:8501) in your
 
 ## 📝 How to Use
 
-### 1. Upload an Image
+#### 1. Upload an Image
 - Click **“Browse files”** in the sidebar or drag & drop your image.  
 
 
-### 2. Select an Algorithm
+#### 2. Select an Algorithm
 - Choose from **Canny**, **Sobel**, or **Laplacian**.
 
-### 3. Adjust Parameters
+#### 3. Adjust Parameters
 - Use the sliders to modify thresholds, kernel sizes, sigma, or direction depending on the algorithm.  
 - See **real-time updates** in the side-by-side preview.
 
-### 4. Compare Results
+#### 4. Compare Results
 - View the **original image** next to the **processed image** for instant feedback.
 
 ---
