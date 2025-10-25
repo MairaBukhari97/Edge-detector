@@ -1,26 +1,47 @@
-# Python cache
+# Python cache files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.so
 
 # Virtual environments
 venv/
+.env
+.venv/
 env/
+ENV/
 
-# IDE settings
+# IDE files
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Logs and data
-*.log
-*.csv
-*.dat
-*.db
+# Streamlit cache
+.streamlit/
 
-# Images or large test data
-/images/
+# Testing & type checkers
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.ruff_cache/
+.pyre/
+.pytype/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+build/
+dist/
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
