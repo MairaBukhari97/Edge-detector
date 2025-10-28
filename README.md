@@ -151,24 +151,6 @@ Highlighting fine details, thin edges, or complex textures in images such as med
 
 ---
 
-## 📊 Algorithm Comparison Summary
-
-| Algorithm | Speed ⚡ | Accuracy 🎯 | Noise Sensitivity 📶 | Best Used For 🧠 |
-|------------|-----------|--------------|------------------------|-------------------|
-| **Canny** | Moderate | ⭐⭐⭐⭐☆ (High) | Low (due to Gaussian blur) | Real-world images, object boundaries, photography |
-| **Sobel** | Fast | ⭐⭐⭐☆ (Good) | Moderate | Directional edge detection (horizontal/vertical), texture patterns |
-| **Laplacian** | Very Fast | ⭐⭐☆☆☆ (Basic) | High (sensitive to noise) | Fine details, artistic effects, medical/microscopic images |
-
----
-
-## 🧩 Quick Tips
-
-✅ Use **Canny** when precision and clarity matter.  
-⚡ Use **Sobel** when speed or direction-specific edges are needed.  
-🎨 Use **Laplacian** when detecting small details or for visual experimentation.  
-
----
-
 ✅ **Enjoy exploring edge detection interactively!** 🎨
 
 
